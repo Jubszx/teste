@@ -1,0 +1,22 @@
+{
+  "teste": [
+    {
+      "email": "admin@gmail.com",
+      "senha": "4321"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "a34d",
+      "nome": "Biscoito",
+      "categoria": "Alimento",
+      "preco": "R$ 3.50"
+    },
+    {
+      "id": "852d",
+      "nome": "maça",
+      "categoria": "fruta",
+      "preco": "2.00"
+    }
+  ]
+}
